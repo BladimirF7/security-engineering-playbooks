@@ -1,11 +1,20 @@
 # Security Engineering Playbooks
 
-![Linux](https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=for-the-badge)
-![Graylog](https://img.shields.io/badge/Graylog-Logging-FF3633?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws)
-![Security](https://img.shields.io/badge/Security-Operations-2E8B57?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-Bash_Scripting-1E90FF?style=for-the-badge)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Graylog-Logging-FF3633?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws" />
+
+<img src="https://img.shields.io/badge/Security-Operations-2E8B57?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Automation-Bash_Scripting-1E90FF?style=for-the-badge" />
+
+</p>
 
 Production-grade security engineering playbooks, operational procedures, hardening standards, monitoring baselines, infrastructure visibility practices, and incident response documentation.
 
