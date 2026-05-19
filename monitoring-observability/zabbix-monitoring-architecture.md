@@ -110,7 +110,7 @@ Recommended protections include:
 
 # 🖼️ Architecture Diagram
 
-![Zabbix Monitoring Architecture](diagrams/zabbix-monitoring-architecture.png.png)
+![Zabbix Monitoring Architecture](diagrams/zabbix-monitoring-architecture.png)
 
 ---
 
